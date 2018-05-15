@@ -50,7 +50,7 @@ There are available libraries to generate OAuth 2.0 tokens. For simplicty sake h
 
 2. Click on **my apps** and choose the **Just start coding**> option. Select access to the **accounting** API and click **create app**
 
-TODO: insert screen
+![alt-text](https://github.com/jplemoussu/smallbizhack-sydney/blob/master/Images/create-app.png "create your QuickBooks app") 
 
 3. You should now be greeted by your QuickBooks app dashboard. Head over the **Keys** section and note down your `client Id` and `client secret`
 
