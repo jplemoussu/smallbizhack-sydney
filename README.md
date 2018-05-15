@@ -1,4 +1,4 @@
-# smallbizhack-sydney
+# SmallBizHack Sydney
 Welcome to SmallBizHack Sydney 2018! Below you will find useful information and sample code to complete your app. 
 
 * [The challenge](#the-challenge)
@@ -11,7 +11,7 @@ Create a solution that saves a small business time or money
 
 ## MUST DO STEPS during the hack
 
-1. Join the Wifi network (ID: `smallbizhack` / PWD: `welovecode` )
+1. Join the Wifi network (ID: `smallbizhack`)
 2. Join the [slack channel](https://join.slack.com/t/smallbizhacksydney/shared_invite/enQtMzU3NzI5MTQ1Nzk1LThhMmRhYWRlOGI5NGJlYTY4YjQ0ZDhmNGU4YmZkMGVhNWQ2Mzc5MDA1MDgzNjI0NjdhNmZhMzZjOGY3YzU5MDI)
 3. [Register your team](https://intuitcorp.quickbase.com/db/bnn75k63r?a=nwr)
 4. Sign up for [pitch rehearsals](https://intuit.me/SYDhackpitchprep2018)
