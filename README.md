@@ -87,7 +87,8 @@ NOTE: You can also skip this part and directly use the available QuickBooks SDKs
 
 TIP 1: If you use POSTMAN, there is a handy code generator which will generate code snippets in most available laguages.
 
-TODO: insert postman code generator image.
+![alt-text](https://github.com/jplemoussu/smallbizhack-sydney/blob/master/Images/postman-code-snippets.jpg "Postman code snippets") 
+
 
 TIP 2: Change the user agent to something unique so your requests can be tracked by Intuit Engineers to help debug your code if necessary
 
