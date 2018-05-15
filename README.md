@@ -1,5 +1,5 @@
 # SmallBizHack Sydney
-Welcome to SmallBizHack Sydney 2018! Below you will find useful information and sample code to complete your app. 
+Welcome to SmallBizHack Sydney 2018! Here you will find useful information and sample code to complete your app. 
 
 * [The challenge](#the-challenge)
 * [MUST DO STEPS during the hack](#must-do-steps-during-the-hack)
@@ -11,7 +11,7 @@ Create a solution that saves a small business time or money
 
 ## MUST DO STEPS during the hack
 
-1. Join the Wifi network (ID: `smallbizhack`)
+1. Join the Wifi network (ID: `smallbizhack` , PWD: TBD)
 2. Join the [slack channel](https://join.slack.com/t/smallbizhacksydney/shared_invite/enQtMzU3NzI5MTQ1Nzk1LThhMmRhYWRlOGI5NGJlYTY4YjQ0ZDhmNGU4YmZkMGVhNWQ2Mzc5MDA1MDgzNjI0NjdhNmZhMzZjOGY3YzU5MDI)
 3. [Register your team](https://intuitcorp.quickbase.com/db/bnn75k63r?a=nwr)
 4. Sign up for [pitch rehearsals](https://intuit.me/SYDhackpitchprep2018)
@@ -46,7 +46,7 @@ Check the [API reference](https://developer.intuit.com/docs/api/accounting) for 
 
 There are available libraries to generate OAuth 2.0 tokens. For simplicty sake here we'll show you how to manually generate the token using our OAuth playground, and get to your first succesful API call in minutes.
 
-1. Sign up for an account on [​developer.intuit.com](​https://www.developer.intuit.com)
+1. Sign up for an account on [​developer.intuit.com](​https://developer.intuit.com)
 
 2. Click on **my apps** and choose the **Just start coding**> option. Select access to the **accounting** API and click **create app**
 
@@ -73,7 +73,7 @@ There are available libraries to generate OAuth 2.0 tokens. For simplicty sake h
 }
 ```
 
-Here a run down of the OAuth response from QuickBooks:
+Here's a run down of the OAuth response from QuickBooks:
 
 * `access_token`: token you will add in the authorization header of every API call to access data from your sandbox company. It is short lived: 1 hour. Can be refreshed before each call by calling the refresh token endpoint.
 * `refresh_token`: Required to acquire a short lived `access token`. These last 100 days, but whenever our token endpoint returns a new one for the same company, start using it instead for subsequent calls. If the token is lost, generate a new refresh token by re-authorising your app.
@@ -81,9 +81,9 @@ Here a run down of the OAuth response from QuickBooks:
 
 ## Your first API call with POSTMAN
 
-1. To make our first API call and test access to your sandbox account we will be using the API client POSTMAN. 
+1. To construct your first API call and test access to your sandbox account, we will be using the API client POSTMAN. 
 
-NOTE: You can also skip and directly use the available QuickBooks SDKs or your prefered API client library if you prefer. The setup steps will depend on what you use. You will need to plug in your `client Id`, `client secret` and set the sandbox endpoint ( `https://sandbox-quickbooks.api.intuit.com`). The POSTMAN collection we've created is just a great way to navigate the API and test the capabilities of the API.
+NOTE: You can also skip this part and directly use the available QuickBooks SDKs or your prefered API client library if you prefer. The setup steps will depend on what you use. You will need to plug in your `client Id`, `client secret` and set the sandbox endpoint `https://sandbox-quickbooks.api.intuit.com`. The POSTMAN collection we've created is just a great way to navigate the API and test the capabilities of the API before you get your hands into the code.
 
 TIP 1: If you use POSTMAN, there is a handy code generator which will generate code snippets in most available laguages.
 
