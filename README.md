@@ -3,7 +3,7 @@ Welcome to SmallBizHack Sydney 2018! Below you will find useful information and 
 
 * [The challenge](#the-challenge)
 * [MUST DO STEPS during the hack](#must-do-steps-during-the-hack)
-* [The APIs at your disposal](#the-apis-at-your-disposal)
+* [APIs at your disposal](#apis-at-your-disposal)
 * [Implementing the QuickBooks API](#implementing-the-quickbooks-api)
 
 ## THE CHALLENGE
@@ -11,14 +11,14 @@ Create a solution that saves a small business time or money
 
 ## MUST DO STEPS during the hack
 
-1. Join the WifI network (ID: `smallbizhack` / PWD: `welovecode` )
+1. Join the Wifi network (ID: `smallbizhack` / PWD: `welovecode` )
 2. Join the [slack channel](https://join.slack.com/t/smallbizhacksydney/shared_invite/enQtMzU3NzI5MTQ1Nzk1LThhMmRhYWRlOGI5NGJlYTY4YjQ0ZDhmNGU4YmZkMGVhNWQ2Mzc5MDA1MDgzNjI0NjdhNmZhMzZjOGY3YzU5MDI)
 3. [Register your team](https://intuitcorp.quickbase.com/db/bnn75k63r?a=nwr)
 4. Sign up for [pitch rehearsals](https://intuit.me/SYDhackpitchprep2018)
 5. Ask your friendly Intuit, Google, PayPal or Telstra staff if you get stuck and need some help.
 6. HACK AND HAVE FUN!
 
-## The APIs at your disposal
+## APIs at your disposal
 This hack is all about creating new innovations that help small businesses. We encourage you to use the APIs below _(HINT HINT: there are special prizes for the teams who best utilise these APIs)_, but you're free to use any other APIs and frameworks to bring your app to life. 
 
 * For **QuickBooks API**, you're in the right place. Read on below!
