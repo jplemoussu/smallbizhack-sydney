@@ -1,11 +1,9 @@
 # smallbizhack-sydney
 Welcome to SmallBizHack Sydney 2018! Below you will find useful information and sample code to complete your app. 
 
-## Table of contents
-
-* [The challenge](#thechallenge)
-* [MUST DO STEPS during the hack](#mustdostepsduringthehack)
-* [The APIs at your disposal](#theapisatyourdisposal)
+* [The challenge](#the-challenge)
+* [MUST DO STEPS during the hack](#must-do-steps-during-the-hack)
+* [The APIs at your disposal](#the-apis-at-your-disposal)
 
 ## THE CHALLENGE
 Create a solution that saves a small business time or money
